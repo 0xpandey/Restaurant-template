@@ -114,5 +114,3 @@ Most content can be modified in the component files inside the `components/secti
 ## Author
 
 Om Pandey
-Computer Science Student
-Exploring modern web development and building practical projects.
